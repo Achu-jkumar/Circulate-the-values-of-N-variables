@@ -21,7 +21,7 @@ Print the output.
 ```
 
 ## Output:
-![values2](./values2.png)
+![Values2](./Values2.png)
 
 ## Result:
 The expected output has been successfully generated.
